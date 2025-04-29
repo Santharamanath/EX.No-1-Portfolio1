@@ -173,11 +173,12 @@ footer p {
 
 
 ## OUTPUT
-![Screenshot 2025-04-29 155649](https://github.com/user-attachments/assets/91e566ac-9a03-4996-bd3f-48d4860e942f)
 
 ![Screenshot 2025-04-29 155625](https://github.com/user-attachments/assets/f04a8773-285e-4511-8dae-e9cdea3248ea)
 
 ![Screenshot 2025-04-29 155637](https://github.com/user-attachments/assets/1a511198-9c8c-4bf0-a5d4-72741181ce77)
+
+![Screenshot 2025-04-29 155649](https://github.com/user-attachments/assets/91e566ac-9a03-4996-bd3f-48d4860e942f)
 
 
 ## RESULT
